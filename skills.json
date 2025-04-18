@@ -1,13 +1,7 @@
 [
-   
     {
         "name": "NodeJS",
         "icon": "https://img.icons8.com/color/48/000000/nodejs.png"
-    },
-    
-    {
-        "name": "TailwindCSS",
-        "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/48px-Tailwind_CSS_Logo.png"
     },
     {
         "name": "Bootstrap",
@@ -36,17 +30,5 @@
     {
         "name": "GitHub",
         "icon": "https://img.icons8.com/glyph-neue/48/ffffff/github.png"
-    },
-    {
-        "name": "Vue Js",
-        "icon": "https://img.icons8.com/fluency/48/000000/vuejs.png"
-    },
-    {
-        "name": "Type script",
-        "icon": "https://img.icons8.com/fluency/48/000000/typescript.png"
-    },
-    {
-        "name": "NestJs",
-        "icon": "https://img.icons8.com/color/48/nestjs.png"
     }
 ]
